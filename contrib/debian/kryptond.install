@@ -1,0 +1,2 @@
+debian/bin/kryptond usr/bin
+src/kryptond usr/lib/krypton
