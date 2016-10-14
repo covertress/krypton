@@ -2734,8 +2734,8 @@ for example: alertnotify=echo %%s | mail -s &quot;krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>Listen for connections on &lt;port&gt; (default: 15714 or testnet: 25714)</source>
-        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 15714かtestnet は 25714)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 17888 or testnet: 27888)</source>
+        <translation>&lt;port&gt; で 接続をリスン (デフォルト: 17888かtestnet は 27888)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2784,8 +2784,8 @@ for example: alertnotify=echo %%s | mail -s &quot;krypton Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+62"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 15715 or testnet: 25715)</source>
-        <translation>&lt;port&gt; で JSON-RPC 接続をリスン (デフォルト: 15715かtestnet は 25715)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 17889 or testnet: 27889)</source>
+        <translation>&lt;port&gt; で JSON-RPC 接続をリスン (デフォルト: 17889かtestnet は 27889)</translation>
     </message>
     <message>
         <location line="-16"/>
